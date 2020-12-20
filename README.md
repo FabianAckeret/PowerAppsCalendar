@@ -7,6 +7,7 @@ My adjustments to this calendars include
 - Re-arrangement of controls at the top
 - Replaced "today" with an icon. Making it easier for smaller screens
 - Fixed todays text color
+- Fixed border replacements
 - Re-arranged month-switcher
-- some minor changes
+- some minor changes and fixes
 
